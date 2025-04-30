@@ -1,8 +1,12 @@
-streamlit
 pandas
 numpy
 plotly
-matplotlib
-statsmodels
 scikit-learn
-wordcloud
+xgboost
+lime
+matplotlib
+shap
+plotly
+openpyxl
+streamlit # Good practice to include streamlit itself
+
