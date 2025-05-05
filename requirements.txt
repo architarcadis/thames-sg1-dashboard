@@ -1,4 +1,5 @@
 wordcloud
+statsmodels
 pandas
 numpy
 plotly
