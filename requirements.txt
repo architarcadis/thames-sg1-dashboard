@@ -10,4 +10,5 @@ matplotlib
 shap
 plotly
 openpyxl
+lxml
 streamlit # Good practice to include streamlit itself
